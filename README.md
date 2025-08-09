@@ -1,10 +1,12 @@
-<h1 align="center">Olá 👋! Eu sou Gustavo Rodrigues</h1>
-<h3 align="center">Desenvolvedor Python e entusiasta de Fórmula 1🏎️</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b81414&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋!+Eu+sou+Gustavo+Rodrigues;Sou+Desenvolvedor+Python+e+JavaScript;Também+entusiasta+de+Fórmula+1🏎️;Bem+Vindo!)](https://git.io/typing-svg)
+
 
 ---
 
 - 🔭 Atualmente estou trabalhando em:  
-  [web-scraping-f1-python](https://github.com/Gustavo-Rodrigues1/web-scraping-f1-python)
+  [web_scraping_f1_python](https://github.com/Gustavo-Rodrigues1/web_scraping_f1_python)
 
 - 🌱 Atualmente estou aprendendo:  
   **React Native** e **Flutter**
@@ -14,7 +16,7 @@
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
+## 🌐 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-rodrigues-5792b1321" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo rodrigues" height="30" width="40" />
@@ -23,7 +25,7 @@
 
 ---
 
-<h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
+## 🛠️ Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -53,8 +55,11 @@
 
 ---
 
-<h3 align="left">📊 Estatísticas do GitHub:</h3>
+## 📊 Estatísticas do GitHub:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-rodrigues1&show_icons=true&locale=pt-br&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rodrigues1&layout=compact&langs_count=7&theme=react" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Rodrigues1&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b81414&height=120&section=footer"/>
