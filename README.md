@@ -58,6 +58,7 @@
 ## 📊 Estatísticas do GitHub:</h3>
 
 <p align="center">
+  <img src="https://github.com/Gustavo-Rodrigues1/Gustavo-Rodrigues1/blob/output/github-snake-dark.svg" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rodrigues1&layout=compact&langs_count=7&theme=react" alt="Top Langs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Rodrigues1&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
 </p>
